@@ -45,16 +45,3 @@
 
 <a href="https://github.com/tiago-oliveira280489/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=tiago-oliveira280489&show_icons=true&theme=gotham"></a>
 
-<hr>
-
-<h2 align="center">Repositories</h2>
-
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/tiago-oliveira280489/game-snake-dio" title="Snake-Game"><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=tiago-oliveira280489&repo=game-snake-dio&theme=gotham"></a><a align="right" href="https://github.com/tiago-oliveira280489/animations-html-css-DIO" title="Animations-CSS-HTML"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=tiago-oliveira280489&repo=animations-html-css-DIO&theme=gotham"></a>
-</p>
-<br><br>
-<p width="100%" align="center">
-  <a align="left" href="https://github.com/tiago-oliveira280489/jogo-da-velha-DIO" title="Jogo da Velha"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=tiago-oliveira280489&repo=jogo-da-velha-DIO&theme=gotham"></a><a align="right" href="https://github.com/tiago-oliveira280489/jogo-da-memoria-dio" title="Jogo da Memória"><img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=tiago-oliveira280489&repo=jogo-da-memoria-dio&theme=gotham"></a>
-</p>
-<br><br><br><br><br><br><br><br><br><br><br>
-<h4 align="center"><a href="https://github.com/tiago-oliveira280489?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a></h4>
