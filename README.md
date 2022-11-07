@@ -14,7 +14,7 @@
   <br>
   💻 I love writing code, game development, graphic computing and learn anythings about it
   <br>
-  🔬 I’m currently working on SENAI
+  🔬 I’m currently working on UNIUBE
   <br>
   📚 I'm currently specializing in full stack development
   <br>
